@@ -25,3 +25,7 @@ this is the second line
 Heading 1 | Heading 2
 - | -
 milk | 1.2 
+
+$$
+e^{i\pi}-1 = 0
+$$
