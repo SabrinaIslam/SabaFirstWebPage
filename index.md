@@ -6,3 +6,22 @@
  * first sub dot point
  1. Number one
  1. This is number two
+
+[go here] (wwww.google.com)
+
+![](picture_folder_pathways)
+``
+this is code
+``
+this is an `in line cose`
+
+```java
+this is a blocked code
+this is the second line
+```
+
+> this is a quote
+
+Heading 1 | Heading 2
+- | -
+milk | 1.2 
