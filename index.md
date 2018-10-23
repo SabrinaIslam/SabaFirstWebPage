@@ -7,7 +7,7 @@
  1. Number one
  1. This is number two
 
-[go here] (wwww.google.com)
+[go here] (www.google.com)
 
 ![](picture_folder_pathways)
 ``
